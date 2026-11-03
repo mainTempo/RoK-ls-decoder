@@ -2,7 +2,7 @@
 # RoK-ls-decoder
 
 Decrypt and decompile Lua scripts from Rise of Kingdoms (`ls.dat`).
-The logic is taken from `Engine.dll`.
+The logic is taken from `EngineDll.dll`.
 
 `ls.dat` is a zip archive of encrypted `.ls` files (modified Lua 5.1 bytecode).  
 This tool decrypts them, remaps the custom opcodes back to standard Lua 5.1, and runs unluac.
