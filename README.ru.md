@@ -67,7 +67,7 @@ ls.dat (zip)
 
 ```
 ls2lua.py   # точка входа
-xordecode.py     # порт MainLsCypher
+xordecode.py     # порт MainLsCypher (sub_18007E7B0, base 0x180001000)
 luac_remap.py    # переписчик байткода
 unluac_bin/      # unluac + BatchDecompile
 ```
