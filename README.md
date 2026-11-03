@@ -66,7 +66,7 @@ Operand encoding differences that are corrected during remap:
 
 ```
 ls2lua.py   # entry point
-xordecode.py     # MainLsCypher port
+xordecode.py     # MainLsCypher (sub_18007E7B0, base 0x180001000) port
 luac_remap.py    # bytecode rewriter
 unluac_bin/      # unluac + BatchDecompile
 ```
